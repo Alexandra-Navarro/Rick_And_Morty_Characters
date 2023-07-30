@@ -1,0 +1,31 @@
+
+.navbar-brand{
+	display: flex;
+    position: relative;
+	left: 25%;
+    
+}
+
+.navbar-brand h1{
+    font-size: 50px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.container2{
+    background-color: rgb(60, 62, 68);
+}
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    background-color: rgb(60, 62, 68);
+  }
+  
+.card {
+    width: 200px;
+    margin: 10px;
+    
+
+}
+  
