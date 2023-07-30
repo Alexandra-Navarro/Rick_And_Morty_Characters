@@ -1,2 +1,3 @@
 # Rick_And_Morty_Characters
-Se consume un endpoint de una API de Rick y Morty, mostrando 20 personajes 
+Se consume información de un endpoint de una API de Rick y Morty (https://rickandmortyapi.com/api/character). Se crean cards con la información de Nombre, Especie e Imagen. Se ocupa HTML, CSS.
+Se despliega en Github pages 
